@@ -172,7 +172,7 @@ const AuthForm = () => {
             dark:text-gray-400
           "
           >
-            <div>{variant === "LOGIN" ? "New to Messenger?" : "Already have an account?"}</div>
+            <div>{variant === "LOGIN" ? "New to Skilledgram?" : "Already have an account?"}</div>
             <div onClick={toggleVariant} className="cursor-pointer underline">
               {variant === "LOGIN" ? "Create an account" : "Login"}
             </div>
