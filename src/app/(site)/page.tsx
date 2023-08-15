@@ -8,8 +8,7 @@ export default function Home() {
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <Image
           alt="Logo"
-          height="482"
-          width="122"
+
           className="mx-auto w-auto"
           src="https://i.ibb.co/9ZQyTkv/Skilledgram-logo-no-bg.png"
         />
