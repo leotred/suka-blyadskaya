@@ -11,7 +11,7 @@ export default function Home() {
           height="48"
           width="48"
           className="mx-auto w-auto"
-          src="https://i.ibb.co/9ZQyTkv/Skilledgram-logo-no-bg.png"
+          src="https://s3.amazonaws.com/my-bucket/my-image.png"
           href="/"
         />
         <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-200">
