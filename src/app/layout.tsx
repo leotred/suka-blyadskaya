@@ -5,8 +5,8 @@ import ToasterContext from "./context/ToasterContext";
 import "./globals.css";
 
 export const metadata = {
-  title: "Skilledgram",
-  description: "Skilledgram Messenger",
+  title: "1576.ru",
+  description: "1576's Messenger",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
